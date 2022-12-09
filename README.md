@@ -6,7 +6,7 @@ Si quieres saber más sobre el proyecto o quieres charlar sobre Data Science apl
 ## El proyecto:
 
 ###  Diferencias entre paises y regiones respecto a sus indicadores de desarrollo financiero
-![image](https://github.com/Vbandin/EDA_Victor_Bandin/imgs/Remittances_Received_1992_2008_Low_Income_Economies.png?raw=true)
+![image](https://github.com/Vbandin/EDA_Victor_Bandin/blob/main/imgs/Remittances_Received_1992_2008_Low_Income_Economies.png?raw=true)
 * Datos entre 1960 y 2010 procedentes del Banco Mundial. 
 * **Keywords**(Desarrollo Económico, Indicadores Financieros, Sector Bancario, Bancos Centrales, Data Science)
-![image](https://github.com/Vbandin/EDA_Victor_Bandin/imgs/hist_Deposit_Money_Bank_Assets_to_Central_Banks.png?raw=true)
+![image](https://github.com/Vbandin/EDA_Victor_Bandin/blob/main/imgs/hist_Deposit_Money_Bank_Assets_to_Central_Banks.png?raw=true)
